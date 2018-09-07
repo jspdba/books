@@ -4,4 +4,4 @@ $$
 \int_{-\infty}^{\infty}xf(x)dx
 $$
 
-![说明](C:\Users\cofco\Documents\美图图库\示例图片_03.jpg)
+![TIM截图20180907152920](TIM截图20180907152920.png)
